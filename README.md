@@ -7,7 +7,7 @@ This repository contains code for reproducing all the experiments in the paper "
 Install all required dependencies using
 
 ```bash
-conda create -f bayes_aml
+conda create -f poisoning_bayesian_inference
 ```
 
 Finally, install package using
