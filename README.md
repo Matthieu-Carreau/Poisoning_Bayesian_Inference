@@ -24,14 +24,17 @@ The additional results obtained with the same model presented in the supplementa
 
 - ```simulation_study_NIG_roudning_effect.ipynb``` for the continuous relaxation problem (Section 5.2 of supplementary materials).
 
-- ```simulation_study_NIG_noise_level_effect.ipynb``` for the noise level experiment (Section 5.3 of supplementary materials).
+- ```simulation_study_NIG_KL_evolution_heuristics.ipynb``` for the convergence speed of different heuristics (Section 5.3 of supplementary materials).
 
-- ```simulation_study_NIG_decrease_uncertainty.ipynb``` and ```simulation_study_NIG_increase_uncertainty.ipynb``` for the uncertainty experiment (Section 5.4 of supplementary materials).
+- ```simulation_study_NIG_noise_level_effect.ipynb``` for the noise level experiment (Section 5.4 of supplementary materials).
+
+- ```simulation_study_NIG_decrease_uncertainty.ipynb``` and ```simulation_study_NIG_increase_uncertainty.ipynb``` for the uncertainty experiment (Section 5.5 of supplementary materials).
 
 
 ## Replication of the linear regression experiments on real data
 
-The attack on the house prices dataset from Section 6.2 can be replicated with the notebook ```house_prices.ipynb```, and the one against the Mexico microcredit dataset with ```microcredit.ipynb``` (Section 6.2 of supplementary materials).
+The attack on the house prices dataset from Section 6.2 can be replicated with the notebook ```house_prices.ipynb```, and the one against the Mexico microcredit dataset with ```microcredit.ipynb``` (Section 6.3).
+The experiments with the gray-box attack scenario from Section 6.1.3 of supplementary materials can be found in the notebook ```house_prices.ipynb```.
 
 ## Replication of the logistic regression experiments for spam classification
 
